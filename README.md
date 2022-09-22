@@ -1,4 +1,4 @@
-# react-native-progress-bar
+# react-native-progress-bar [still ender dev. not ready yet]
 animated progress bar
 
 ```
